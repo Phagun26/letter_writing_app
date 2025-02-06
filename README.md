@@ -2,6 +2,24 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+
+You can visit the webapp   : https://letter-writing-app.vercel.app/
+
+# React Chatbot - Site Setup Assistant  
+
+This project is a chatbot-style onboarding assistant built with **React, TypeScript, and Next.js**. It guides users through setting up their website by prompting relevant questions.  
+
+## 🚀 Features  
+- **Component-Based Architecture** - Modular components for better reusability.  
+- **State Management** - Uses `useState` for handling chat messages.  
+- **Styled with Tailwind CSS** - Responsive and clean UI.  
+- **Next.js for SSR & Routing** - Optimized performance with server-side rendering.  
+
+## 🛠 Tech Stack  
+- **React (TypeScript)**
+- **Next.js**
+- **Tailwind CSS**
+
 First, run the development server:
 
 ```bash
@@ -34,3 +52,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
